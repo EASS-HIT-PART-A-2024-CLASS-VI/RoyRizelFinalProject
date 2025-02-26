@@ -36,7 +36,7 @@ Follow these steps to get the project up and running on your local machine.
 First, clone this repository to your local machine:
 
 ```bash
-git clone git clone https://github.com/EASS-HIT-PART-A-2024-CLASS-VI/RoyRizelFinalProject.git
+git clone https://github.com/EASS-HIT-PART-A-2024-CLASS-VI/RoyRizelFinalProject.git
 cd RoyRizelFinalProject
 ```
 Then open the folder using VS manually or code . in bash and use docker-compose up --build in the VS terminal. reach port 8000 once setup is done to create your ToDo lists.
